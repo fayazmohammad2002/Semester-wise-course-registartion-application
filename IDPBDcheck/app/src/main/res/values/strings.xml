@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IDPBDcheck</string>
+    <string name="mail">Mail :</string>
+    <string name="mobile">Mobile :</string>
+    <string name="semister">Semister :</string>
+    <string name="next">next</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+</resources>

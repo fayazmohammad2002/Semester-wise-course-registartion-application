@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="t1" type="id" />
+    <item name="t2" type="id" />
+    <item name="t3" type="id" />
+    <item name="t4" type="id" />
+    <item name="t5" type="id" />
+    <item name="t6" type="id" />
+    <item name="t7" type="id" />
+    <item name="t8" type="id" />
+    <item name="t9" type="id" />
+    <item name="button" type="id" />
+</resources>
